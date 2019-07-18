@@ -1,10 +1,10 @@
 # universe_background_cssGrid
-A background simulating the univese for CSS grid 
+A background simulating the univese for CSS grid using SVG 
 
 ![Image](/universe.png)
 
 ### Motivation for creating this tiny universe
-I couldn't find online, so I coded it. I took me a couple of hours, but hopefully this can help on your projects. 
+I couldn't find it online, so I coded it. I took me a couple of hours, but hopefully this shine some sort of universal help on your projects. 
 
 ## Steps:
 - create a grid item with the id name "universeDisplay" (HTML)
@@ -105,8 +105,6 @@ slope[0] = Math.floor((Math.random() * 3) - 1);
 slope[1] = Math.floor((Math.random() * 3) - 1);
 slope[2] = Math.floor((Math.random() * 3) - 1);
 slope[3] = Math.floor((Math.random() * 3) - 1); 
-
-
 
 function movingStars() {
   let cx ;
