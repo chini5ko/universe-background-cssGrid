@@ -1,6 +1,8 @@
 # universe_background_cssGrid
 A background simulating the univese for CSS grid 
 
+![Image](/universe.png)
+
 ### Motivation for creating this tiny universe
 I couldn't find online, so I coded it. I took me a couple of hours, but hopefully this can help on your projects. 
 
