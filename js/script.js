@@ -125,7 +125,7 @@ function stop(){
   clearInterval(moveStars);
 }
 
-function reset(){
+function clean(){
 
   for(let i = 0; i<stars.length;i++){
     stars[i].setAttribute("fill", "black");
