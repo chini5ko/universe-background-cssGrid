@@ -1,12 +1,12 @@
-# universe_background_cssGrid
-A background simulating the univese for CSS grid using SVG 
+# Universe background simulation 
+A background simulating the univese, using CSS grid property and SVG. 
 
 Take a look : https://chini5ko.github.io/universe-background-cssGrid/index.html
 
 ![Image](/universe.png)
 
 ### Motivation for creating this tiny universe
-I couldn't find it online, so I coded it. I took me a couple of hours, but hopefully this shine some sort of universal help on your projects. 
+I couldn't find it online, so I coded it.  
 
 ## Steps:
 - create a grid item with the id name "universeDisplay" (HTML)
